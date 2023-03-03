@@ -1,3 +1,4 @@
+`include "div_fsmLS.v"
 module top;
 parameter N=16;
 
