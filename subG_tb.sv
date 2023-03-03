@@ -1,3 +1,4 @@
+`include "subG.v"
 module tb();
   reg [15:0]a,b;
   reg bin;
