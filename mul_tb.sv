@@ -1,3 +1,4 @@
+`include "mul.v"
 module top;
   
   bit [3:0] a, b;
