@@ -1,3 +1,4 @@
+`include "comparator.v"
 module tb;
   //parameter N=16;
   reg [15:0]in1,in2;
