@@ -1,3 +1,4 @@
+`include "mux4to1.v"
 module mux4to1_tb;
   parameter N=4;
   reg [N-1:0]a;
