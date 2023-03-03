@@ -1,3 +1,4 @@
+`include "mux16to1.v"
 module mux16to1_tb;
   parameter N=16;
   wire [N-1:0]out;
