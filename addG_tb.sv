@@ -1,3 +1,4 @@
+`include "addG.v"
 module tb;
   wire  [15:0] sum;
   wire  [15:0]cout;
