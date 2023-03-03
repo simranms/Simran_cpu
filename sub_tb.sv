@@ -1,3 +1,4 @@
+`include "sub.v"
 module sub_tb;
   reg [2:0]c1;
   reg [2:0]d1;
